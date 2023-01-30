@@ -61,6 +61,9 @@ h3 {
 body {
     background-color: #f1faee;
     margin:auto;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
     
 }
 .profile-picture {
@@ -96,6 +99,12 @@ a {
     font-weight: bold;
     text-align: center;
 }
+
+.video {
+    text-align: center;
+    
+}
+
 footer {
     background-color: #1d3557;
     color: gray;
