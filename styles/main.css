@@ -106,7 +106,8 @@ a {
 }
 
 footer {
-    max-width: fit-content;
+    max-width: 100%;
+    display: flex;
     background-color: #1d3557;
     color: gray;
     padding: 1rem;
