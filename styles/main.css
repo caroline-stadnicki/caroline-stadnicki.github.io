@@ -40,14 +40,14 @@ h3 {
  p {
     margin:2rem, 4rem;
     font-family: 'Playfair Display', serif;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #1d3557;
     text-align: justify;
     padding: 1rem;
 }
  li {
     font-family: 'Playfair Display', serif;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #1d3557;
     text-align: justify;
     margin:10%;
@@ -82,8 +82,8 @@ body {
     display:flex;
     justify-content: center;
     align-content: center;
-    margin:0px, 50rem;
-    padding:0px, 50rem;
+    margin:0, 50rem;
+    padding:0, 50rem;
     width: 100%;
     height:auto;
 }
